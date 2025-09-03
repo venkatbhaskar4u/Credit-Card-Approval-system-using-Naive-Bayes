@@ -26,6 +26,8 @@ This project builds a credit card approval prediction system using the Naive Bay
 - Displays confusion matrix and key feature impact plots
 - Sample output:
 Applicant: Age=35, Income=$50k, Approved? Yes
+"An 80% accuracy rate represents realistic performance and avoid overfitting, which is common when training on limited or clean datasets. This provides a more meaningful benchmark for practical deployment."
+
 
 ## Author
 Venkat Bhaskar Reddem
